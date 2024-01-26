@@ -1,0 +1,374 @@
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    .container {
+        width: 85%;
+        margin: auto;
+    }
+
+    .left-section .title-section h3 {
+        font-size: 40px !important;
+    }
+    .left-section .title-section .line {
+       width: 127px !important;
+       height: 3px !important;
+    }
+    .left-section .title-section h1 {
+      font-size: 60px !important;
+      margin-top: 25px;
+      margin-bottom: 8% !important;
+       
+    }
+    .cuntry .cuntry-title {
+        margin-left: 75px !important;
+    }
+    .cuntry .cuntry-img img {
+        width: 205% !important;
+    }
+
+    .cuntry .cuntry-title h5 {
+      font-size: 45px !important;
+      line-height: 55px !important;
+    }
+
+    .description-title {
+      font-size: 27px !important;
+      line-height: 40px!important;
+      margin-top: 30px !important;
+  }
+  .light-title {
+    margin-left: 50px !important;
+}
+.light img {
+  width: 165% !important;
+  height: auto;
+}
+
+
+  .light-title a {
+    font-size: 40px !important;
+}
+
+.right-section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-top: 20% !important;
+}
+
+.c-btn {
+  position: absolute !important;
+  bottom: -10% !important;
+}
+
+.c-btn a {
+  padding: 35px 70px !important;
+  font-size: 30px !important;
+  border-radius: 10px !important;
+  
+}
+
+.bgi img {
+  display: none !important;
+}
+
+.woman-img img {
+  width: 73vh !important;
+  height: 73vh !important;
+  margin-top: -26px !important;
+}
+
+.leptop-img {
+ margin-top: 75% !important;
+}
+
+.quote-icon {
+  width: 90% !important;
+  height: 200px !important;
+  bottom: -55%!important;
+}
+
+.quote-icon i {
+  font-size: 85px !important;
+  right: 33px !important;
+  bottom: 11px !important;
+}
+
+.quote-icon h4 {
+  font-size: 35px !important;
+  margin-bottom: 28px !important;
+}
+
+.quote-icon p {
+  font-size: 23px !important;
+}
+.leptop-img {
+  margin-top: 105% !important;
+  margin-left: 0% !important;
+}
+.leptop-img img {
+  width: 73vh !important;
+  height: 73vh !important;
+}
+.play-icon {
+  margin-top: 26% !important;
+  margin-left: 45% !important;
+}
+.play-icon a i {
+  font-size: 95px !important;
+}
+
+/* mirpur-section responsive code */
+
+.mirpur-section {
+  width: 107% !important;
+  margin-top: 197% !important;
+}
+.mirpur-title h4 {
+  font-size: 45px !important;
+  margin-right: 4% !important;
+}
+.mirpur-title .line {
+  width: 288px !important;
+  height: 3px !important;
+  margin-left: 187px !important;
+  margin-top: -5px !important;
+  margin-bottom: 25px !important;
+}
+.mirpur-title h1 {
+  font-size: 57px !important;
+  font-weight: 700 !important;
+}
+.mirpur-img img {
+  margin-left: -2% !important;
+}
+.mission {
+  height: 35% !important;
+  margin-top: 20px !important;
+  margin-left: -13px !important;
+}
+.mission-icon a i {
+  font-size: 90px !important;
+  margin-left: -68px !important;
+}
+.contact h4 {
+  font-size: 46px !important;
+}
+.contact p {
+  font-size: 18px !important;
+  line-height: 28px !important;
+}
+.value {
+  width: 105% !important;
+  height: 100% !important;
+  margin-top: 6% !important;
+  margin-left: -13px !important;
+}
+.value-icon a i {
+  font-size: 90px !important;
+  margin-left: -78px !important;
+}
+.value-title h4 {
+  font-size: 56px !important;
+}
+.value-title p {
+  font-size: 18px !important;
+  line-height: 28px !important;
+  margin-bottom: 7% !important;
+}
+.list-box ul li {
+  font-size: 25px !important;
+  margin-left: 53px !important;
+}
+.more-btn {
+  margin-left: 27px !important;
+}
+.more-btn a {
+  padding: 25px 45px!important;
+  font-size: 25px !important;
+}
+
+.vition {
+  width: 105% !important;
+  height: 30% !important;
+  margin-top: 8% !important;
+  margin-left: -10px !important;
+}
+.man-img {
+  margin-left: -12px !important;
+}
+
+/* slider-section responsive code */
+.slider-section {
+  display: none !important;
+  /* width: 100%;
+  padding: 80px 0px;
+  margin-bottom: 15%; */
+}
+
+
+/* .top-content h4 {
+  font-size: 45px !important;
+}
+.top-content .line {
+  width: 284px !important;
+  height: 3px !important;
+  margin-left: 176px !important;
+}
+.top-content h1 {
+  font-size: 53px !important;
+}
+.angel-left a i {
+  font-size: 30px !important;
+  padding: 22px 30px !important;
+}
+.angel-right a i {
+  font-size: 30px !important;
+  padding: 22px 30px !important;
+}
+.one-inner h4 a {
+  font-size: 40px !important;
+}
+.one-inner p {
+  font-size: 23px !important ;
+  line-height: 32px !important;
+} */
+
+.demo-section {
+  background: #dfe2e7 !important;
+  width: 107% !important;
+  height: 130vh !important;
+  margin-top: 10% !important;
+}
+.mw-img {
+  margin-top:100% !important;
+}
+.mw-img img {
+  margin-top: -10% !important;
+  width: 100% !important;
+  height: 60% !important;
+}
+.card {
+  top: -72% !important;
+  width: 92% !important;
+  height: 60% !important;
+  margin-left: -43px !important;
+}
+.card ul li {
+  padding-bottom: 34px;
+}
+.card ul li a {
+  font-size: 30px !important;
+  padding-bottom: 22px !important;
+}
+.call-icon {
+  width: 100% !important;
+  padding: 33px 0px 24px 0px !important;
+}
+.call-contact h5 a {
+  font-size: 30px !important;
+  font-weight: 600 !important;
+}
+.card-title {
+  top: 15% !important;
+  left: 5% !important;
+}
+.card-title h2 {
+  font-size: 40px !important;
+}
+.left-line .line {
+  width: 60px !important;
+  height: 4px !important;
+}
+.right-line .line {
+  width: 135px !important;
+  height: 4px !important;
+  margin-left: 75px !important;
+  margin-top: -3px !important;
+}
+.card-title h1 {
+  font-size: 59px !important;
+  margin-top: 17px !important;
+}
+.card-title p {
+  font-size: 21px !important;
+  line-height: 31px !important;
+  margin-top: 20px !important;
+}
+.demo-btn {
+  display: flex !important;
+  margin-top: 5% !important;
+}
+.d-btn {
+  margin-right: 15px !important;
+}
+.d-btn a {
+  font-size: 28px !important;
+}
+.d-icon a i {
+  font-size: 40px !important;
+}
+ 
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    
+  }
